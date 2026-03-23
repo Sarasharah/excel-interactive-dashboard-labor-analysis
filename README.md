@@ -32,3 +32,6 @@ To design an interactive dashboard allowing users to explore wage and employment
 
 ## Why This Project
 This project was built to better understand how spreadsheet-based reporting compares to modern BI tools, and to explore how far Excel can be pushed to support interactive analytics.
+
+## Files
+[Excel Interactive Dashboard](Labor-Stats-Interactive-Dashboard.xlsx) - Full interactive dashboard
