@@ -1,8 +1,8 @@
 # Excel Dashboard – Interactive Labor Market Analysis
-Interactive Excel dashboard analyzing U.S. labor data with dynamic filtering, metric toggling, and chart highlighting using formulas and form controls
+This project explores how interactive dashboards can be built in Excel using formulas, data validation, and form controls to simulate BI-style reporting.
+
 ![Dashboard Preview](Images/Dashboard.png)
 
-This project explores how interactive dashboards can be built in Excel using formulas, data validation, and form controls to simulate BI-style reporting.
 
 ## Objective
 
