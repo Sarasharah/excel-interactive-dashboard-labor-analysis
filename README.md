@@ -23,7 +23,7 @@ To design an interactive dashboard allowing users to explore wage and employment
 
 ## Example Logic (Dynamic Highlighting & Interactivity)
 
-![Logic](Images/logic.png)
+![Logic](Images/Logic.png)
 
 ## Key Takeaways
 * Excel can replicate elements of interactive dashboards, but requires complex logic and manual setup
