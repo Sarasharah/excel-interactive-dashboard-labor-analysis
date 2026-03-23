@@ -21,6 +21,10 @@ To design an interactive dashboard allowing users to explore wage and employment
 * Structured data to support repeatable and flexible reporting views
 * Simulated dashboard-style filtering and metric switching within Excel
 
+## Example Logic (Dynamic Highlighting & Interactivity)
+
+![Logic](Images/logic.png)
+
 ## Key Takeaways
 * Excel can replicate elements of interactive dashboards, but requires complex logic and manual setup
 * Interactivity (filtering, highlighting, metric switching) is significantly less scalable than in BI tools
